@@ -1,0 +1,30 @@
+body {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	background-color: #12a7a7;
+}
+
+.half-width{
+    width: 31%;
+    padding: 26px;
+}
+.half-width img {
+	width: 100%;
+	border: 4px solid orange;
+	border-radius: 10px;
+}
+.main-section {
+    width: 80%;
+    margin: 0 auto;
+	display: flex;
+	justify-content: space-between;
+}
+.half-width h1, h2 {
+	font-size: 59px;
+	margin: 0;
+}
+.half-width h3 {
+	font-size: 29px;
+	margin: 0;
+	border-bottom: 4px solid orange;
+	width: 157px;
+}
